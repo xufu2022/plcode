@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\commentingconventions\\xmlcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\commentingconventions\\xmlcomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\demonaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\demonaming.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\structs\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\structs\\coords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\staticinternal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\staticinternal\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\publicmembers\\climbingshoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\publicmembers\\climbingshoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\positionalrecord\\trailaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\positionalrecord\\trailaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\multiplewords\\trailaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\multiplewords\\trailaddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\namingconventions\\classes\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\namingconventions\\classes\\backpack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\linq\\wherebefore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\linq\\wherebefore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\linq\\renameproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\linq\\renameproperties.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\linq\\meaningfulnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\linq\\meaningfulnames.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\linq\\aliases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\linq\\aliases.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\parentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\parentheses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\onestatementperline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\onestatementperline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\onedeclarationperline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\onedeclarationperline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\oneblankline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\oneblankline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\indentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\indentation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\layoutconventions\\completedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\layoutconventions\\completedemo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\stringinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\stringinterpolation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\static.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\preferstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\preferstringbuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\new.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\implicitlytypedvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\implicitlytypedvariable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\funcandaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\funcandaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\exceptionhandling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\eventhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\arrays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\languageguidelines\\andor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\languageguidelines\\andor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\commentingconventions\\separateuppercaseperiodandspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\commentingconventions\\separateuppercaseperiodandspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\commentingconventions\\funnycomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\commentingconventions\\funnycomments.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\commentingconventions\\blocksofasterisks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\conventions\\commentingconventions\\blocksofasterisks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\Program.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\Program.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\Program.cs",
+              "RelativeToolTip": "carvedrock.bl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:30.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DemoNaming.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\DemoNaming.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\DemoNaming.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\DemoNaming.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\DemoNaming.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:14.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Coords.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\Structs\\Coords.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\Structs\\Coords.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\Structs\\Coords.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\Structs\\Coords.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:10.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\StaticInternal\\Product.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\StaticInternal\\Product.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\StaticInternal\\Product.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\StaticInternal\\Product.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:44:03.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClimbingShoes.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\PublicMembers\\ClimbingShoes.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\PublicMembers\\ClimbingShoes.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\PublicMembers\\ClimbingShoes.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\PublicMembers\\ClimbingShoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:43:49.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TrailAddress.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\PositionalRecord\\TrailAddress.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\PositionalRecord\\TrailAddress.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\PositionalRecord\\TrailAddress.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\PositionalRecord\\TrailAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:43:26.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TrailAddress.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\MultipleWords\\TrailAddress.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\MultipleWords\\TrailAddress.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\MultipleWords\\TrailAddress.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\MultipleWords\\TrailAddress.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:43:11.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLcomments.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\XMLcomments.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\CommentingConventions\\XMLcomments.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\XMLcomments.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\CommentingConventions\\XMLcomments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:19.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Backpack.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\Classes\\Backpack.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\NamingConventions\\Classes\\Backpack.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\NamingConventions\\Classes\\Backpack.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\NamingConventions\\Classes\\Backpack.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:43:07.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WhereBefore.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\WhereBefore.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LINQ\\WhereBefore.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\WhereBefore.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LINQ\\WhereBefore.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:57.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RenameProperties.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\RenameProperties.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LINQ\\RenameProperties.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\RenameProperties.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LINQ\\RenameProperties.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:53.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MeaningfulNames.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\MeaningfulNames.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LINQ\\MeaningfulNames.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\MeaningfulNames.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LINQ\\MeaningfulNames.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:51.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Aliases.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\Aliases.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LINQ\\Aliases.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LINQ\\Aliases.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LINQ\\Aliases.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA8wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:46.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Parentheses.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\Parentheses.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\Parentheses.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\Parentheses.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\Parentheses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:40.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OneStatementPerLine.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneStatementPerLine.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\OneStatementPerLine.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneStatementPerLine.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\OneStatementPerLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OneDeclarationPerLine.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneDeclarationPerLine.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\OneDeclarationPerLine.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneDeclarationPerLine.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\OneDeclarationPerLine.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:27.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OneBlankLine.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneBlankLine.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\OneBlankLine.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\OneBlankLine.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\OneBlankLine.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:22.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Indentation.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\Indentation.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\Indentation.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\Indentation.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\Indentation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:19.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CompleteDemo.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\CompleteDemo.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LayoutConventions\\CompleteDemo.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LayoutConventions\\CompleteDemo.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LayoutConventions\\CompleteDemo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:12.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "StringInterpolation.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\StringInterpolation.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\StringInterpolation.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\StringInterpolation.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\StringInterpolation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:42:04.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Static.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\Static.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\Static.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\Static.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\Static.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAcwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:41:56.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PreferStringBuilder.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\PreferStringBuilder.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\PreferStringBuilder.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\PreferStringBuilder.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\PreferStringBuilder.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:41:50.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "New.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\New.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\New.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\New.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\New.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA1wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:41:43.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ImplicitlyTypedVariable.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\ImplicitlyTypedVariable.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\ImplicitlyTypedVariable.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\ImplicitlyTypedVariable.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\ImplicitlyTypedVariable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:41:31.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FuncAndAction.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\FuncAndAction.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\FuncAndAction.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\FuncAndAction.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\FuncAndAction.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:41:17.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ExceptionHandling.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\ExceptionHandling.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\ExceptionHandling.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\ExceptionHandling.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\ExceptionHandling.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:41.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EventHandler.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\EventHandler.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\EventHandler.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\EventHandler.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\EventHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:35.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Arrays.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\Arrays.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\Arrays.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\Arrays.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\Arrays.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:31.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AndOr.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\AndOr.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\LanguageGuidelines\\AndOr.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\LanguageGuidelines\\AndOr.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\LanguageGuidelines\\AndOr.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:26.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "SeparateUppercasePeriodAndSpace.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\SeparateUppercasePeriodAndSpace.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\CommentingConventions\\SeparateUppercasePeriodAndSpace.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\SeparateUppercasePeriodAndSpace.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\CommentingConventions\\SeparateUppercasePeriodAndSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:10.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "FunnyComments.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\FunnyComments.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\CommentingConventions\\FunnyComments.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\FunnyComments.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\CommentingConventions\\FunnyComments.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:40:02.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BlocksOfAsterisks.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\BlocksOfAsterisks.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\conventions\\CommentingConventions\\BlocksOfAsterisks.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\conventions\\after\\carvedrock.bl\\conventions\\CommentingConventions\\BlocksOfAsterisks.cs",
+              "RelativeToolTip": "carvedrock.bl\\conventions\\CommentingConventions\\BlocksOfAsterisks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:39:52.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

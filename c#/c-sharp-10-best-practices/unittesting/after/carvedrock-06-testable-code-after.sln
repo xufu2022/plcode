@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32611.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "carvedrock.bl", "carvedrock.bl\carvedrock.bl.csproj", "{FFB6EECF-AC0A-4A35-A653-D0717D9A317A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "carvedrock.tests", "carvedrock.tests\carvedrock.tests.csproj", "{81811C27-5D1D-41E6-83E4-9420D3A27AA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFB6EECF-AC0A-4A35-A653-D0717D9A317A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFB6EECF-AC0A-4A35-A653-D0717D9A317A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFB6EECF-AC0A-4A35-A653-D0717D9A317A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFB6EECF-AC0A-4A35-A653-D0717D9A317A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81811C27-5D1D-41E6-83E4-9420D3A27AA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81811C27-5D1D-41E6-83E4-9420D3A27AA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81811C27-5D1D-41E6-83E4-9420D3A27AA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81811C27-5D1D-41E6-83E4-9420D3A27AA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B83DCD26-60CD-4AF2-B936-27729AD48003}
+	EndGlobalSection
+EndGlobal

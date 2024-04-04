@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3bfa8304-63d1-4aad-8d09-7a0e372d996c": {
+      "ProjectGuid": "3bfa8304-63d1-4aad-8d09-7a0e372d996c",
+      "DisplayName": "carvedrock.tests",
+      "ColorIndex": 0
+    },
+    "797fc10c-1e4a-47d9-b9ab-2d6d2a9c7aae": {
+      "ProjectGuid": "797fc10c-1e4a-47d9-b9ab-2d6d2a9c7aae",
+      "DisplayName": "carvedrock.bl",
+      "ColorIndex": 1
+    },
+    "69f37c86-01ec-41e2-857d-b49deaa63696": {
+      "ProjectGuid": "69f37c86-01ec-41e2-857d-b49deaa63696",
+      "DisplayName": "carvedrock.blTests",
+      "ColorIndex": 2
+    },
+    "aab2b50f-ea59-4d0e-971f-08704e18f036": {
+      "ProjectGuid": "aab2b50f-ea59-4d0e-971f-08704e18f036",
+      "DisplayName": "carvedrock.blTests1",
+      "ColorIndex": 3
+    },
+    "46e80862-1ba4-4f13-9071-015453bfb9a1": {
+      "ProjectGuid": "46e80862-1ba4-4f13-9071-015453bfb9a1",
+      "DisplayName": "carvedrock.blTests2",
+      "ColorIndex": 4
+    },
+    "a01c7ee5-c557-4c9c-8471-0b45d598fa29": {
+      "ProjectGuid": "a01c7ee5-c557-4c9c-8471-0b45d598fa29",
+      "DisplayName": "carvedrock.blTests",
+      "ColorIndex": 5
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 6
+}

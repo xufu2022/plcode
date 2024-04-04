@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\json\\serializationbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\json\\serializationbinder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\helpers\\todotemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\helpers\\todotemplateselector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\helpers\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\helpers\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\factories\\todoviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\factories\\todoviewmodelfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\factories\\todousercontrolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\factories\\todousercontrolfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.windows\\converters\\bytetoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7DA3021-81CF-4304-88F8-6ADB7F06A621}|Globomantics.Windows\\Globomantics.Windows.csproj|solutionrelative:globomantics.windows\\converters\\bytetoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\globomanticsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\globomanticsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\domaintodatamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\domaintodatamapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\datatodomainmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\datatodomainmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\repositories\\todotaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\repositories\\todotaskrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\repositories\\todorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\repositories\\todoinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\repositories\\todoinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.infrastructure\\data\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40F52993-B982-40F3-91D2-90C7C12E6B04}|Globomantics.Infrastructure\\Globomantics.Infrastructure.csproj|solutionrelative:globomantics.infrastructure\\data\\repositories\\bugrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.domain\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\todotask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.domain\\severity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\severity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.domain\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\feature.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\completed\\globomantics.domain\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76382DC3-9A30-4D5A-A072-B528964C1135}|Globomantics.Domain\\Globomantics.Domain.csproj|solutionrelative:globomantics.domain\\bug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SerializationBinder.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Json\\SerializationBinder.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Json\\SerializationBinder.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Json\\SerializationBinder.cs*",
+              "RelativeToolTip": "Globomantics.Windows\\Json\\SerializationBinder.cs*",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA5wBwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:54:33.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoTemplateSelector.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Helpers\\TodoTemplateSelector.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Helpers\\TodoTemplateSelector.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Helpers\\TodoTemplateSelector.cs",
+              "RelativeToolTip": "Globomantics.Windows\\Helpers\\TodoTemplateSelector.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:54:19.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ObservableCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Helpers\\ObservableCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Helpers\\ObservableCollectionExtensions.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Helpers\\ObservableCollectionExtensions.cs",
+              "RelativeToolTip": "Globomantics.Windows\\Helpers\\ObservableCollectionExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:53:58.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoViewModelFactory.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Factories\\TodoViewModelFactory.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Factories\\TodoViewModelFactory.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Factories\\TodoViewModelFactory.cs*",
+              "RelativeToolTip": "Globomantics.Windows\\Factories\\TodoViewModelFactory.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:53:52.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TodoUserControlFactory.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Factories\\TodoUserControlFactory.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Factories\\TodoUserControlFactory.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Factories\\TodoUserControlFactory.cs",
+              "RelativeToolTip": "Globomantics.Windows\\Factories\\TodoUserControlFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:53:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ByteToImageConverter.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Converters\\ByteToImageConverter.cs",
+              "RelativeDocumentMoniker": "Globomantics.Windows\\Converters\\ByteToImageConverter.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Windows\\Converters\\ByteToImageConverter.cs",
+              "RelativeToolTip": "Globomantics.Windows\\Converters\\ByteToImageConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:52:33.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GlobomanticsDbContext.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\GlobomanticsDbContext.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\GlobomanticsDbContext.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\GlobomanticsDbContext.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\GlobomanticsDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:52:27.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DomainToDataMapping.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\DomainToDataMapping.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\DomainToDataMapping.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\DomainToDataMapping.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\DomainToDataMapping.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:49:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DataToDomainMapping.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\DataToDomainMapping.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\DataToDomainMapping.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\DataToDomainMapping.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\DataToDomainMapping.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:49:39.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\Repositories\\UserRepository.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:49:26.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoTaskRepository.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoTaskRepository.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\Repositories\\TodoTaskRepository.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoTaskRepository.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\Repositories\\TodoTaskRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:49:01.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TodoRepository.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoRepository.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\Repositories\\TodoRepository.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoRepository.cs*",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\Repositories\\TodoRepository.cs*",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:48:25.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TodoInMemoryRepository.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoInMemoryRepository.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\Repositories\\TodoInMemoryRepository.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\TodoInMemoryRepository.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\Repositories\\TodoInMemoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:47:00.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BugRepository.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\BugRepository.cs",
+              "RelativeDocumentMoniker": "Globomantics.Infrastructure\\Data\\Repositories\\BugRepository.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Infrastructure\\Data\\Repositories\\BugRepository.cs",
+              "RelativeToolTip": "Globomantics.Infrastructure\\Data\\Repositories\\BugRepository.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:48.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\User.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\User.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\User.cs",
+              "RelativeToolTip": "Globomantics.Domain\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:33.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "TodoTask.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\TodoTask.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\TodoTask.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\TodoTask.cs",
+              "RelativeToolTip": "Globomantics.Domain\\TodoTask.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:31.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Severity.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Severity.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\Severity.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Severity.cs",
+              "RelativeToolTip": "Globomantics.Domain\\Severity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:26.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Feature.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Feature.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\Feature.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Feature.cs",
+              "RelativeToolTip": "Globomantics.Domain\\Feature.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:21.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bug.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Bug.cs",
+              "RelativeDocumentMoniker": "Globomantics.Domain\\Bug.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-building-real-world-application\\02\\demos\\Completed\\Globomantics.Domain\\Bug.cs",
+              "RelativeToolTip": "Globomantics.Domain\\Bug.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:46:01.89Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

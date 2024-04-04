@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "797fc10c-1e4a-47d9-b9ab-2d6d2a9c7aae": {
+      "ProjectGuid": "797fc10c-1e4a-47d9-b9ab-2d6d2a9c7aae",
+      "DisplayName": "carvedrock.bl",
+      "ColorIndex": 0
+    },
+    "4fe57ffe-47bd-437b-a921-049463c2478f": {
+      "ProjectGuid": "4fe57ffe-47bd-437b-a921-049463c2478f",
+      "DisplayName": "carvedrock.bl",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

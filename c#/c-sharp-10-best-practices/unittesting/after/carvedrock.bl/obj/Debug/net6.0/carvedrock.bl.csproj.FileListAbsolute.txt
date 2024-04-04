@@ -1,0 +1,14 @@
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\carvedrock.bl.exe
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\carvedrock.bl.deps.json
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\carvedrock.bl.runtimeconfig.json
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\carvedrock.bl.dll
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\ref\carvedrock.bl.dll
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\bin\Debug\net6.0\carvedrock.bl.pdb
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.AssemblyInfoInputs.cache
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.AssemblyInfo.cs
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.csproj.CoreCompileInputs.cache
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.dll
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\ref\carvedrock.bl.dll
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.pdb
+C:\github\xmorera\ps-c-sharp-best-practices\sandbox\unittesting\before\carvedrock.bl\obj\Debug\net6.0\carvedrock.bl.genruntimeconfig.cache

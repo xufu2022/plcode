@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F77C506-2FD9-44CC-924D-68747CD798D6}|StockAnalyzer.Windows\\StockAnalyzer.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1F77C506-2FD9-44CC-924D-68747CD798D6}|StockAnalyzer.Windows\\StockAnalyzer.Windows.csproj|solutionrelative:stockanalyzer.windows\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F77C506-2FD9-44CC-924D-68747CD798D6}|StockAnalyzer.Windows\\StockAnalyzer.Windows.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1F77C506-2FD9-44CC-924D-68747CD798D6}|StockAnalyzer.Windows\\StockAnalyzer.Windows.csproj|solutionrelative:stockanalyzer.windows\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|solutionrelative:stockanalyzer.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|solutionrelative:stockanalyzer.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6E13DCF-B70D-4511-BC45-565F98F86721}|StockAnalyzer.Web\\StockAnalyzer.Web.csproj|solutionrelative:stockanalyzer.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.core\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|solutionrelative:stockanalyzer.core\\services\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.core\\domain\\stockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|solutionrelative:stockanalyzer.core\\domain\\stockprice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.core\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4571844D-AD38-44DA-B934-980858C5EB00}|StockAnalyzer.Core\\StockAnalyzer.Core.csproj|solutionrelative:stockanalyzer.core\\datastore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B88E2382-EE1F-49A3-9AD0-CBE33234114B}|StockAnalyzer.AdvancedTopics\\StockAnalyzer.AdvancedTopics.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\windows\\completed\\stockanalyzer.advancedtopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B88E2382-EE1F-49A3-9AD0-CBE33234114B}|StockAnalyzer.AdvancedTopics\\StockAnalyzer.AdvancedTopics.csproj|solutionrelative:stockanalyzer.advancedtopics\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Windows\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Windows\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Windows\\MainWindow.xaml.cs",
+              "RelativeToolTip": "StockAnalyzer.Windows\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAowAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:30:20.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Windows\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "StockAnalyzer.Windows\\MainWindow.xaml",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Windows\\MainWindow.xaml",
+              "RelativeToolTip": "StockAnalyzer.Windows\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-23T02:30:12.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Web\\Program.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Program.cs",
+              "RelativeToolTip": "StockAnalyzer.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:30:06.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "StockAnalyzer.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:29:59.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StockAnalyzer.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:29:46.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DataStore.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\DataStore.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Core\\DataStore.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\DataStore.cs*",
+              "RelativeToolTip": "StockAnalyzer.Core\\DataStore.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAuwBwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:20:05.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\Services\\StockService.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Core\\Services\\StockService.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\Services\\StockService.cs",
+              "RelativeToolTip": "StockAnalyzer.Core\\Services\\StockService.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAA0wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:19:07.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StockPrice.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\Domain\\StockPrice.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.Core\\Domain\\StockPrice.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.Core\\Domain\\StockPrice.cs*",
+              "RelativeToolTip": "StockAnalyzer.Core\\Domain\\StockPrice.cs*",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAuwBEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:18:46.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.AdvancedTopics\\Program.cs",
+              "RelativeDocumentMoniker": "StockAnalyzer.AdvancedTopics\\Program.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\09\\demos\\Windows\\Completed\\StockAnalyzer.AdvancedTopics\\Program.cs",
+              "RelativeToolTip": "StockAnalyzer.AdvancedTopics\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:16:13.569Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

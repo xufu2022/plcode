@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\static\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\static\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\static\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\static\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\shoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\shoes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\ropes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\ropes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\kayaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\kayaks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\backpacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\backpacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\splitclass\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\splitclass\\apparel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailextras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trailactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\traffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\traffic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\location.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\howcreatemethods\\difficulty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\season.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\methodsandfunctions\\clearercodeintent\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\favoringreadability\\guardclauses\\guardclauses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\favoringreadability\\guardclauses\\guardclauses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\favoringreadability\\favorreadability\\favorreadability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\favoringreadability\\favorreadability\\favorreadability.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\definingclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\definingclass\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\classnaming\\xmlcomment\\kayak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\classnaming\\xmlcomment\\kayak.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\classnaming\\ordering\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\classnaming\\ordering\\trail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\classesincsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\classesincsharp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|c:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{797FC10C-1E4A-47D9-B9AB-2D6D2A9C7AAE}|carvedrock.bl\\carvedrock.bl.csproj|solutionrelative:carvedrock.bl\\cleanclassesandmethods\\classnaming\\classesincsharp\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\Static\\Product.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\Static\\Product.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\Static\\Product.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\Static\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:50.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\Static\\BankAccount.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\Static\\BankAccount.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\Static\\BankAccount.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\Static\\BankAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:49.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shoes.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Shoes.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Shoes.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Shoes.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Shoes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:45.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ropes.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Ropes.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Ropes.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Ropes.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Ropes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:43.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Product.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Product.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Product.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:40.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kayaks.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Kayaks.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Kayaks.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Kayaks.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Kayaks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:39.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Backpacks.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Backpacks.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Backpacks.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Backpacks.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Backpacks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:36.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Apparel.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Apparel.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Apparel.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Apparel.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\SplitClass\\Apparel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:21.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TrailType.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailType.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailType.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailType.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:14.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrailExtras.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailExtras.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailExtras.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailExtras.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailExtras.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:12.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\Program.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\Program.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\Program.cs",
+              "RelativeToolTip": "carvedrock.bl\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:33:41.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TrailActivity.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailActivity.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailActivity.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailActivity.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\TrailActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:09.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Trail.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Trail.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Trail.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Trail.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Trail.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAADwvxYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:38:00.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Traffic.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Traffic.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Traffic.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Traffic.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Traffic.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:58.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Location.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Location.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Location.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Location.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Location.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:57.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Difficulty.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Difficulty.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Difficulty.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Difficulty.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\HowCreateMethods\\Difficulty.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Season.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Season.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Season.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Season.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Season.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:50.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Product.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Product.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Product.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:49.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Order.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Order.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Order.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\MethodsAndFunctions\\ClearerCodeIntent\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:40.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GuardClauses.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\GuardClauses\\GuardClauses.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\GuardClauses\\GuardClauses.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\GuardClauses\\GuardClauses.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\GuardClauses\\GuardClauses.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:30.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FavorReadability.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\FavorReadability\\FavorReadability.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\FavorReadability\\FavorReadability.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\FavorReadability\\FavorReadability.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\FavoringReadability\\FavorReadability\\FavorReadability.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:15.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\DefiningClass\\Product.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\DefiningClass\\Product.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\DefiningClass\\Product.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\DefiningClass\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:36:57.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Kayak.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\XMLcomment\\Kayak.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\XMLcomment\\Kayak.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\XMLcomment\\Kayak.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\XMLcomment\\Kayak.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:36:52.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Trail.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\Ordering\\Trail.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\Ordering\\Trail.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\Ordering\\Trail.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\Ordering\\Trail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:34:48.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Vehicle.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Vehicle.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Vehicle.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Vehicle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:34:32.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Key.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Key.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Key.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Key.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\Key.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:34:29.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ClassesInCsharp.cs",
+              "DocumentMoniker": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\ClassesInCsharp.cs",
+              "RelativeDocumentMoniker": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\ClassesInCsharp.cs",
+              "ToolTip": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-best-practices\\clean\\after\\carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\ClassesInCsharp.cs",
+              "RelativeToolTip": "carvedrock.bl\\CleanClassesAndMethods\\ClassNaming\\ClassesInCsharp\\ClassesInCsharp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:34:15.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

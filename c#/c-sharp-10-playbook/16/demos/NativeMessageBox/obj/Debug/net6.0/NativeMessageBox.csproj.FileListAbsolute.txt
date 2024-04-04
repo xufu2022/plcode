@@ -1,0 +1,15 @@
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\bin\Debug\net6.0\NativeMessageBox.exe
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\bin\Debug\net6.0\NativeMessageBox.deps.json
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\bin\Debug\net6.0\NativeMessageBox.runtimeconfig.json
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\bin\Debug\net6.0\NativeMessageBox.dll
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\bin\Debug\net6.0\NativeMessageBox.pdb
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.csproj.AssemblyReference.cache
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.GeneratedMSBuildEditorConfig.editorconfig
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.AssemblyInfoInputs.cache
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.AssemblyInfo.cs
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.csproj.CoreCompileInputs.cache
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.dll
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\refint\NativeMessageBox.dll
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.pdb
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\NativeMessageBox.genruntimeconfig.cache
+H:\G_Work\Pluralsight\Courses-current\CSh Playbook\m16 interop\Code\NativeMessageBox\obj\Debug\net6.0\ref\NativeMessageBox.dll

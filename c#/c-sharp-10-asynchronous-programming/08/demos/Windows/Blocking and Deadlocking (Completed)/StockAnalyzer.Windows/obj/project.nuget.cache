@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SDisSPMCt349LCr3EkMajV6djiW4AoMYA95a7xWA9H93mqhtZShUXh0R2DPPB8pSdBATh3n4LUnWzr+PvXshog==",
+  "success": true,
+  "projectFilePath": "C:\\dev2024\\03\\github\\plcode\\c#\\c-sharp-10-asynchronous-programming\\08\\demos\\Windows\\Blocking and Deadlocking (Completed)\\StockAnalyzer.Windows\\StockAnalyzer.Windows.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\xufu2\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

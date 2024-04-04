@@ -1,0 +1,15 @@
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\bin\Debug\net6.0\StockAnalyzer.AdvancedTopics.exe
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\bin\Debug\net6.0\StockAnalyzer.AdvancedTopics.deps.json
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\bin\Debug\net6.0\StockAnalyzer.AdvancedTopics.runtimeconfig.json
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\bin\Debug\net6.0\StockAnalyzer.AdvancedTopics.dll
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\bin\Debug\net6.0\StockAnalyzer.AdvancedTopics.pdb
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.AssemblyInfoInputs.cache
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.AssemblyInfo.cs
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.csproj.CoreCompileInputs.cache
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.sourcelink.json
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.dll
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\refint\StockAnalyzer.AdvancedTopics.dll
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.pdb
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\StockAnalyzer.AdvancedTopics.genruntimeconfig.cache
+C:\dev2024\03\github\plcode\c#\c-sharp-10-asynchronous-programming\09\demos\Windows\Completed\StockAnalyzer.AdvancedTopics\obj\Debug\net6.0\ref\StockAnalyzer.AdvancedTopics.dll
